@@ -1,4 +1,4 @@
-![image](https://github.com/Jetrong/DZSeminar5/assets/136317824/2d5be9a3-1af8-4506-af2c-b54a0fd7204f)![image](https://github.com/Jetrong/DZSeminar5/assets/136317824/235de212-2987-41fc-a914-4bd855ef15cc)![image](https://github.com/Jetrong/DZSeminar5/assets/136317824/a2ffe403-2947-44b5-8a93-a3f5b6c72a6a)# Урок 5. Docker Compose и Docker Swarm
+# Урок 5. Docker Compose и Docker Swarm
 ## Classwork
 Знакомились с работой Docker Compose и Docker Swarm
 ## Homework 
